@@ -1,0 +1,59 @@
+body {
+	background-color: #545452;
+}
+
+#container {
+	width: inherit;
+	height: inherit;
+	max-width: 960px;
+}
+
+#siteMainHeader {
+	color: #FFFFBF;
+	text-align: center;
+}
+
+/*.siteMainDivs {
+	border-width: 1px;
+	border-color: white;
+	border-style: dotted;
+}*/
+
+#subDiv1 {
+	width: auto;
+	height: auto;
+	padding: 5px 0px 5px 10px;
+	float: left;
+	color: white;
+	border-width: 1px;
+	border-color: white;
+	border-style: dotted;
+}
+
+form {
+	text-align: center; 
+}
+
+#subDiv2 {
+	width: auto;
+	height: auto;
+	padding: 100px 100px 100px 100px;
+	float: right;
+	color: white;
+	border-width: 1px;
+	border-color: white;
+	border-style: dotted;
+}
+
+#subDiv3 {
+	clear: both;
+	width: inherit;
+	height: auto;
+	position: static;
+	padding: 50px 300px 100px 300px;
+	color: white;
+	border-width: 1px;
+	border-color: white;
+	border-style: dotted;
+	text-align: center;
+}
